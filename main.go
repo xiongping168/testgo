@@ -12,6 +12,9 @@ func main()  {
 	fmt.Println("bbbbb")
 	fmt.Println("ccccc")
 	fmt.Println("ddddd")
+	
+	fmt.Println("test fetch")
+	
 }
 
 
