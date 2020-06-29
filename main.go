@@ -15,6 +15,7 @@ func main()  {
 	fmt.Println("bbbbb")
 	fmt.Println("ccccc")
 	fmt.Println("ddddd")
+
 	now :=time.Now()
 	//123
 	nostr :=now.Format("2006-01")
@@ -41,6 +42,10 @@ func main()  {
    maps["3"]=3
    maps["4"]=4
    fmt.Println(maps)
+
+
+	fmt.Println("test fetch")
+
 }
 
 
